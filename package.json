@@ -49,8 +49,5 @@
 	},
 	"files": [
 		"dist"
-	],
-	"peerDependencies": {
-		"vite": "^4.1.1"
-	}
+	]
 }
